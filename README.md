@@ -2,13 +2,13 @@
 
 ### Keybase Issues
 
-Please tell us any problems you have with Keybase. We also welcome questions and comments here in the issues.
+Please tell us any problems you have with Keybase. We also welcome questions and comments.
 
-Keybase has a few repos (the client, the installer, some shared code for the browser, etc.), and we can't expect you to know where to go. So just post your bugs, issues, questions, and comments here. We'll tag them if you don't.
+Keybase has a few repos (see below), and we can't expect you to know where to post issues. So post everything here. We'll tag and organize it all.
 
-### To post an issue/bug/comment/question/whatever
+### To post an issue / comment / whatever
 
-Click the "issues" tab. (Or: https://github.com/keybase/keybase-issues/issues). Don't be afraid to bookmark that page if you're one of our alpha testers.
+Click the "issues" tab. (Or: https://github.com/keybase/keybase-issues/issues). Alpha testers, you can bookmark that page :-)
 
 ### If you'd like to review our code
 

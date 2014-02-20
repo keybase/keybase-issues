@@ -1,14 +1,14 @@
 ![Keybase Issues](img/robot.jpg "Keybase Issues")
 
-### Keybase Issues
+### Tell us everything!
 
-Please tell us any problems you have with Keybase. We also welcome questions and comments.
+There's an [issues tab](https://github.com/keybase/keybase-issues/issues) in the right margin of this page. The direct link:
+
+  - https://github.com/keybase/keybase-issues/issues
+
+We appreciate comments, questions, feature requests, etc.
 
 Keybase has a few repos (see below), and we can't expect you to know where to post issues. So post everything here. We'll tag and organize it all.
-
-### To post an issue / comment / whatever
-
-Click the "issues" tab. (Or: https://github.com/keybase/keybase-issues/issues). Alpha testers, you can bookmark that page :-)
 
 ### If you'd like to review our code
 

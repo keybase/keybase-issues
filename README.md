@@ -18,6 +18,7 @@ We'd like that too.
   * https://github.com/keybase/node-installer - the installer for the command line client
   * https://github.com/keybase/gpg-wrapper - library for communicating with GPG's CLI
   * https://github.com/keybase/pgp-utils - crypto utilities for dealing with MACs, Signatures, and PGP message formats.
+  * https://github.com/keybase/kbpgp - Our implementation of PGP
 
 #### Thanks!
 

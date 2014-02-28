@@ -19,6 +19,7 @@ We'd like that too.
   * https://github.com/keybase/gpg-wrapper - library for communicating with GPG's CLI
   * https://github.com/keybase/pgp-utils - crypto utilities for dealing with MACs, Signatures, and PGP message formats.
   * https://github.com/keybase/kbpgp - Our implementation of PGP
+  * https://github.com/keybase/proofs - Shared code for generating and validating key proofs.
 
 #### Thanks!
 

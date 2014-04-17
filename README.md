@@ -2,7 +2,7 @@
 
 ### First, security bugs
 
-If you are aware of a security bug (or have a proposal for or an implementation of a "zero day" attack), notifying us privately is in the interest of all users. We can then discuss it post-mortem. To reach us privately, please get our public keys here:
+If you are aware of a security bug (or have a proposal/implemention of a "zero day" attack), notifying us privately is in the interest of all users. We can then discuss it post-mortem. To reach us privately, please get our public keys here:
 
   - https://keybase.io/max
   - https://keybase.io/chris

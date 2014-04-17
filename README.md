@@ -32,4 +32,5 @@ We'd like that too.
 
 #### Thanks!
 
-  - https://keybase.io/max and https://keybase.io/chris
+  - https://keybase.io/max
+  - https://keybase.io/chris

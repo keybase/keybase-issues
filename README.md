@@ -9,7 +9,7 @@ If you are aware of a security bug (or have a proposal/implemention of a "zero d
   
 You can import our keys to GPG - and verify our Keybase.io admin status - with `keybase track max` and `keybase track chris`.
 
-### Other Bugs, Issues, Comments, Questions, and Suggestions
+### Other bugs, issues, comments, questions, and suggestions
 
 There's an [issues tab](https://github.com/keybase/keybase-issues/issues) in the right margin of this page. The direct link:
 

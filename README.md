@@ -1,6 +1,15 @@
 ![Keybase Issues](img/robot.jpg "Keybase Issues")
 
-### Tell us everything!
+### First, security bugs
+
+If you are aware of a security bug (or have a proposal for or an implementation of a "zero day" attack), notifying us privately is in the interest of all users. We can then discuss it post-mortem. To reach us privately, please get our public keys here:
+
+  - https://keybase.io/max
+  - https://keybase.io/chris
+  
+You can import our keys to GPG - and verify our Keybase.io admin status - with `keybase track max` and `keybase track chris`.
+
+### Other Bugs, Issues, Comments, Questions, and Suggestions
 
 There's an [issues tab](https://github.com/keybase/keybase-issues/issues) in the right margin of this page. The direct link:
 

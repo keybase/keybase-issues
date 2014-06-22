@@ -30,6 +30,12 @@ We'd like that too.
   * https://github.com/keybase/kbpgp - Our implementation of PGP
   * https://github.com/keybase/proofs - Shared code for generating and validating key proofs.
 
+#### Hall-of-fame Bugfinders
+
+  * Venkatesh S
+  * [Leigh](https://keybase.io/lt)
+
+
 #### Thanks!
 
   - https://keybase.io/max

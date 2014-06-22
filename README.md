@@ -32,7 +32,7 @@ We'd like that too.
 
 #### Hall-of-fame Bugfinders
 
-  * Venkatesh S
+  * [S. Venkatesh](https://twitter.com/pranavvenkats)
   * [Leigh](https://keybase.io/lt)
 
 

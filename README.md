@@ -15,7 +15,7 @@ There's an [issues tab](https://github.com/keybase/keybase-issues/issues) in the
 
   - https://github.com/keybase/keybase-issues/issues
 
-We appreciate comments, questions, feature requests, etc.
+We appreciate comments, questions, [feature requests](https://github.com/keybase/keybase-issues/issues/518), etc.
 
 Keybase has a few repos (see below), and we can't expect you to know where to post issues. So post everything here. We'll tag and organize it all.
 

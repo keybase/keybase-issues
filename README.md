@@ -32,6 +32,7 @@ We'd like that too.
 
 #### Hall-of-fame Bugfinders
 
+  * [Michael Henriksen](https://twitter.com/michenriksen)
   * [S. Venkatesh](https://twitter.com/pranavvenkats)
   * [Leigh](https://keybase.io/lt)
 

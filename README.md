@@ -23,12 +23,8 @@ Keybase has a few repos (see below), and we can't expect you to know where to po
 
 We'd like that too.
 
-  * https://github.com/keybase/node-client - the command line client
-  * https://github.com/keybase/node-installer - the installer for the command line client
-  * https://github.com/keybase/gpg-wrapper - library for communicating with GPG's CLI
-  * https://github.com/keybase/pgp-utils - crypto utilities for dealing with MACs, Signatures, and PGP message formats.
-  * https://github.com/keybase/kbpgp - Our implementation of PGP
-  * https://github.com/keybase/proofs - Shared code for generating and validating key proofs.
+  * https://github.com/keybase/client - the client for all platforms
+  * https://github.com/keybase/node-client - our older node client 
 
 #### Hall-of-fame Bugfinders
 

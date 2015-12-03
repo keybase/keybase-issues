@@ -11,7 +11,7 @@ You can import our keys to GPG - and verify our Keybase.io admin status - with `
 
 ### Other bugs, issues, comments, questions, and suggestions
 
-There's an [issues tab](https://github.com/keybase/keybase-issues/issues) in the right margin of this page. The direct link:
+There's an [issues tab](https://github.com/keybase/keybase-issues/issues) on this page (probably at the top). The direct link:
 
   - https://github.com/keybase/keybase-issues/issues
 

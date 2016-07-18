@@ -8,7 +8,7 @@ If you've installed Keybase on your desktop, run:
 keybase log send
 ```
 
-and follow the instructions. If you're on a mobile device, please just post to [client repo](https://github.com/keybase/client/issues).
+and follow the instructions. If you're on a mobile device, please just post to [client issue tracker](https://github.com/keybase/client/issues).
 
 ## Serious security bugs
 

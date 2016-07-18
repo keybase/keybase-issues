@@ -9,7 +9,7 @@ If you are aware of a security bug (or have a proposal/implemention of a "zero d
   
 You can import our keys to GPG with `keybase pgp pull max` and `keybase pgp pull chris`.
 
-## Desktop client bugs
+## Client-side (app) bugs:
 
 If you've installed Keybase on your desktop, run:
 
@@ -17,13 +17,9 @@ If you've installed Keybase on your desktop, run:
 keybase log send
 ```
 
-and follow the instructions
+and follow the instructions. If you're on a mobile device, please just post to [client repo](https://github.com/keybase/client/issues).
 
-## Mobile app bugs
-
-Please post to https://github.com/keybase/client/issues
-
-## Website bugs, feature suggestions, ideas, etc.
+## Everything else, including website bugs, ideas and suggestions
 
 There's an [issues tab](https://github.com/keybase/keybase-issues/issues) on this page (probably at the top). The direct link:
 
@@ -38,7 +34,6 @@ Keybase has a few repos (see below), and we can't expect you to know where to po
 We'd like that too.
 
   * https://github.com/keybase/client - the client for all platforms
-  * https://github.com/keybase/node-client - our older node client 
 
 #### Hall-of-fame Bugfinders
 

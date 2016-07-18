@@ -21,13 +21,7 @@ and follow the instructions. If you're on a mobile device, please just post to [
 
 ## Everything else, including website bugs, ideas and suggestions
 
-There's an [issues tab](https://github.com/keybase/keybase-issues/issues) on this page (probably at the top). The direct link:
-
-  - https://github.com/keybase/keybase-issues/issues
-
-We appreciate comments, questions, feature requests, etc.
-
-Keybase has a few repos (see below), and we can't expect you to know where to post issues. So post everything here. We'll tag and organize it all.
+There's an [issues tab](https://github.com/keybase/keybase-issues/issues) on this page.
 
 ### If you'd like to review our code
 

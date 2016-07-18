@@ -7,7 +7,7 @@ If you are aware of a security bug (or have a proposal/implemention of a "zero d
   - https://keybase.io/max
   - https://keybase.io/chris
   
-You can import our keys to GPG - and verify our Keybase.io admin status - with `keybase track max` and `keybase track chris`.
+You can import our keys to GPG with `keybase pgp pull max` and `keybase pgp pull chris`.
 
 ## Desktop client bugs
 

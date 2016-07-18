@@ -1,6 +1,6 @@
 ![Keybase Issues](img/robot.jpg "Keybase Issues")
 
-### First, security bugs
+## Security Bugs
 
 If you are aware of a security bug (or have a proposal/implemention of a "zero day" attack), notifying us privately is in the interest of all users. We can then discuss it post-mortem. To reach us privately, please get our public keys here:
 
@@ -9,7 +9,21 @@ If you are aware of a security bug (or have a proposal/implemention of a "zero d
   
 You can import our keys to GPG - and verify our Keybase.io admin status - with `keybase track max` and `keybase track chris`.
 
-### Other bugs, issues, comments, questions, and suggestions
+## Desktop client bugs
+
+If you've installed Keybase on your desktop, run:
+
+```
+keybase log send
+```
+
+and follow the instructions
+
+## Mobile app bugs
+
+Please post to https://github.com/keybase/client/issues
+
+## Website bugs, feature suggestions, ideas, etc.
 
 There's an [issues tab](https://github.com/keybase/keybase-issues/issues) on this page (probably at the top). The direct link:
 
@@ -33,7 +47,4 @@ We'd like that too.
   * [Leigh](https://keybase.io/lt)
 
 
-#### Thanks!
-
-  - https://keybase.io/max
-  - https://keybase.io/chris
+Thanks!

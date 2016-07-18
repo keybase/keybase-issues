@@ -4,7 +4,8 @@
 
 If you've installed Keybase on your desktop, run:
 
-```
+```bash
+# this will submit logs and provide a ticket link for you
 keybase log send
 ```
 

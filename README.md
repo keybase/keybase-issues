@@ -1,14 +1,5 @@
 ![Keybase Issues](img/robot.jpg "Keybase Issues")
 
-## Security Bugs
-
-If you are aware of a security bug (or have a proposal/implemention of a "zero day" attack), notifying us privately is in the interest of all users. We can then discuss it post-mortem. To reach us privately, please get our public keys here:
-
-  - https://keybase.io/max
-  - https://keybase.io/chris
-  
-You can import our keys to GPG with `keybase pgp pull max` and `keybase pgp pull chris`.
-
 ## Client-side (app) bugs:
 
 If you've installed Keybase on your desktop, run:
@@ -18,6 +9,15 @@ keybase log send
 ```
 
 and follow the instructions. If you're on a mobile device, please just post to [client repo](https://github.com/keybase/client/issues).
+
+## Serious security bugs
+
+If you are aware of a security bug (or have a proposal/implemention of a "zero day" attack), notifying us privately is in the interest of all users. We can then discuss it post-mortem. To reach us privately, please get our public keys here:
+
+  - https://keybase.io/max
+  - https://keybase.io/chris
+  
+You can import our keys to GPG with `keybase pgp pull max` and `keybase pgp pull chris`.
 
 ## Everything else, including website bugs, ideas and suggestions
 

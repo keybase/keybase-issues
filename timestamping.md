@@ -31,4 +31,4 @@ https://keybase.io/docs-assets/blog/NCC_Group_Keybase_KB2018_Public_Report_2019-
 
 High Risk Issues - 1
 Medium Risk Issues - 3
-Los Risk Issues - 1
+Low Risk Issues - 1

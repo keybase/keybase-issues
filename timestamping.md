@@ -43,6 +43,31 @@ We've made no performance optimizations yet. There's a lot of low-hanging fruit.
 
 On desktops and laptops, KBFS makes liberal use of memory in order to cache recently-read data for performance. It also uses CPU and networking resources to pre-fetch data you are likely to access in the near future, such as recently-edited files or subsequent data blocks to data that was just requested. These optimization tradeoffs might not be desired on systems that don't have any extra RAM or CPU to spare. 
 
+# 🚀 Keybase is now writing to the Stellar blockchain 🚀  <<---- it's blockchain based anyhow! ......
+
+Every public announcement you make on Keybase is now verifiably signed by Keybase and hashed into the Stellar blockchain. To be specific, all of these:
+
+announcing your Keybase username
+adding a public key
+identity proofs (twitter, github, your website, etc.)
+public bitcoin address announcements
+public follower statements
+revocations!
+team operations
+Quick background
+Earlier, in the server security overview we described Keybase's approach to server security: (1) each user has his or her own signature chain that grows monotonically with each announcement; (2) the server maintains a global Merkle Tree that covers all signature chains; and (3) the server signs and publishes the root of the Merkle Tree with every new user signature. This configuration strongly discourages the server from lying by omission, since clients have the tools to catch the server in the act.
+
+There was one point we glossed over. A sophisticated adversary Eve could commandeer our server and fork it, showing Alice and Bob different versions of server state. Eve could get away with her attack as long as she never tries to merge Alice and Bob's views back together, and as long as they don't communicate out-of-band. (See Mazières and Shasha for a formal treatment of fork-consistency).
+
+Enter the Stellar Blockchain
+Thanks to Stellar, we are unforkable.
+
+Since 20 Jan 2020, Keybase has been regularly pushing its Merkle Root into the Stellar blockchain, signed by the key GA72FQOMHYUCNEMZN7GY6OBWQTQEXYL43WPYCY2FE3T452USNQ7KSV6E. Now, Alice and Bob can consult the blockchain to find a recent root of the Keybase Merkle tree. Unless Eve can fork the Stellar blockchain, Alice and Bob will see the same value, and can catch Eve if she tries to fork Keybase.
+
+Another way to think of this property is to turn it on its head. Whenever Alice uploads a signed announcement to the Keybase servers, she influences Keybase's Merkle Tree, which in turn influences the Stellar blockchain, which in turn Bob can observe. When Bob observes changes in the Stellar blockchain, he can work backwards to see Alice's change. There's little Eve can do to get in the way without being detected.
+
+You Mean My Signatures affect a Major Cryptocurrency Blockchain?
+
 # NCC Group Protocol Security Review for Keybase found here: 
 
 https://keybase.io/docs-assets/blog/NCC_Group_Keybase_KB2018_Public_Report_2019-02-27_v1.3.pdf
